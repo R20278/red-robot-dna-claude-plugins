@@ -1,0 +1,18 @@
+{
+  "name": "red-robot-dna",
+  "owner": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "metadata": {
+    "description": "Claude plugins by Red Robot DNA, a Dutch bookkeeping firm: Dutch tax, bookkeeping and business topics explained in plain language."
+  },
+  "plugins": [
+    {
+      "name": "dutch-tax-for-expats",
+      "source": "./plugins/dutch-tax-for-expats",
+      "description": "Dutch taxes for expats and freelancers: the 30% ruling and its 27% change in 2027, Box 3 on assets abroad, the end of partial non-resident status, and freelancing (zzp) basics."
+    }
+  ]
+}

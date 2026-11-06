@@ -1,0 +1,22 @@
+{
+  "name": "dutch-tax-for-expats",
+  "version": "0.1.0",
+  "description": "Plain-language guidance on Dutch taxes for expats and freelancers: the 30% ruling (expatregeling) and its 27% change in 2027, Box 3 on assets abroad, the end of partial non-resident status, moving to or from the Netherlands, and the tax basics of freelancing (zzp) in the Netherlands. Made by Red Robot DNA, a Dutch bookkeeping firm.",
+  "author": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "homepage": "https://portaal.redrobotdna.nl",
+  "license": "MIT",
+  "keywords": [
+    "netherlands",
+    "tax",
+    "expat",
+    "30-percent-ruling",
+    "box-3",
+    "freelancer",
+    "zzp",
+    "dutch"
+  ]
+}
