@@ -28,6 +28,16 @@
       "name": "schijnzelfstandigheid-check-nl",
       "source": "./plugins/schijnzelfstandigheid-check-nl",
       "description": "Schijnzelfstandigheid-check voor zzp'ers en opdrachtgevers: handhaving sinds 2025, de criteria uit het Deliveroo-arrest, het rechtsvermoeden per 31-12-2026, modelovereenkomsten en webmodule, met een vragenlijst"
+    },
+    {
+      "name": "penningmeester-nl",
+      "source": "./plugins/penningmeester-nl",
+      "description": "Voor de (vrijwillige) penningmeester van een stichting of vereniging: WBTR en aansprakelijkheid, begroting, jaarrekening en kascommissie, ANBI, subsidieverantwoording, vrijwilligersvergoeding, UBO en de overdracht"
+    },
+    {
+      "name": "emigreren-spanje-nl",
+      "source": "./plugins/emigreren-spanje-nl",
+      "description": "Emigreren naar Spanje, de Nederlandse kant: het emigratiejaar en M-aangifte, het belastingverdrag (en de stand van het nieuwe), conserverende aanslag, woning in Nederland, AOW en uitschrijven — de Spaanse kant via een Spaanse adviseur"
     }
   ]
 }

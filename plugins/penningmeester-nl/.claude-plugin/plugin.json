@@ -1,0 +1,24 @@
+{
+  "name": "penningmeester-nl",
+  "version": "0.1.0",
+  "description": "Heldere uitleg voor (vrijwillige) penningmeesters van een Nederlandse stichting of vereniging: taken, WBTR en bestuurdersaansprakelijkheid, vier-ogen-principe en bevoegdheden, begroting, jaarrekening en kascommissie, ANBI-status en publicatieplicht, giftenaftrek, subsidieverantwoording, vrijwilligersvergoeding 2026, btw en vennootschapsbelasting, UBO-registratie, bewaarplicht en de overdracht van een vorige penningmeester. Gemaakt door Red Robot DNA, een Nederlands boekhoudkantoor.",
+  "author": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "homepage": "https://portaal.redrobotdna.nl",
+  "license": "MIT",
+  "keywords": [
+    "penningmeester",
+    "stichting",
+    "vereniging",
+    "anbi",
+    "wbtr",
+    "subsidie",
+    "vrijwilligersvergoeding",
+    "kascommissie",
+    "nederland",
+    "dutch"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "emigreren-spanje-nl",
+  "version": "0.1.0",
+  "description": "Heldere uitleg over de Nederlandse kant van emigreren naar Spanje: het emigratiejaar en de M-aangifte, uitschrijven en fiscale woonplaats, de conserverende aanslag op pensioen, lijfrente en aanmerkelijk belang, wat het belastingverdrag Nederland-Spanje (nog steeds dat van 1971) toewijst voor AOW, pensioen, overheidspensioen, huur en werk, uw woning in Nederland verkopen of verhuren, AOW-opbouw en vrijwillige verzekering bij de SVB, zorgverzekering via het CAK en het stoppen of verplaatsen van een eenmanszaak. De Spaanse kant wordt alleen benoemd en doorverwezen. Gemaakt door Red Robot DNA, een Nederlands boekhoudkantoor.",
+  "author": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "homepage": "https://portaal.redrobotdna.nl",
+  "license": "MIT",
+  "keywords": [
+    "emigreren",
+    "spanje",
+    "emigratie",
+    "belastingverdrag",
+    "conserverende-aanslag",
+    "aow",
+    "pensioen",
+    "m-aangifte",
+    "nederland",
+    "belasting"
+  ]
+}

@@ -10,6 +10,8 @@ business topics in plain language — written and maintained by
 | [aftrekposten-ondernemer-nl](plugins/aftrekposten-ondernemer-nl) | Aftrekposten en jaarafsluiting voor de Nederlandse ondernemer: zelfstandigen- en startersaftrek, urencriterium, KIA/EIA/MIA, zakelijke kosten, auto, afschrijven, lijfrente, eindejaarschecklist | Nederlands |
 | [ondernemen-duitsland-nl](plugins/ondernemen-duitsland-nl) | Zakendoen in of met Duitsland, de Nederlandse kant: btw verleggen, ICP, afstandsverkopen/OSS, vaste inrichting en het belastingverdrag, A1-verklaring — de Duitse kant via een Steuerberater | Nederlands |
 | [schijnzelfstandigheid-check-nl](plugins/schijnzelfstandigheid-check-nl) | Schijnzelfstandigheid-check voor zzp'ers en opdrachtgevers: handhaving sinds 2025, de criteria uit het Deliveroo-arrest, het rechtsvermoeden per 31-12-2026, modelovereenkomsten en webmodule, met een vragenlijst | Nederlands |
+| [penningmeester-nl](plugins/penningmeester-nl) | Voor de (vrijwillige) penningmeester van een stichting of vereniging: WBTR en aansprakelijkheid, begroting, jaarrekening en kascommissie, ANBI, subsidieverantwoording, vrijwilligersvergoeding, UBO en de overdracht | Nederlands |
+| [emigreren-spanje-nl](plugins/emigreren-spanje-nl) | Emigreren naar Spanje, de Nederlandse kant: het emigratiejaar en M-aangifte, het belastingverdrag (en de stand van het nieuwe), conserverende aanslag, woning in Nederland, AOW en uitschrijven — de Spaanse kant via een Spaanse adviseur | Nederlands |
 
 ## Install in Claude Code
 
