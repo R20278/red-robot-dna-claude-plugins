@@ -23,6 +23,11 @@
       "name": "ondernemen-duitsland-nl",
       "source": "./plugins/ondernemen-duitsland-nl",
       "description": "Zakendoen in of met Duitsland, de Nederlandse kant: btw verleggen, ICP, afstandsverkopen/OSS, vaste inrichting en het belastingverdrag, A1-verklaring — de Duitse kant via een Steuerberater"
+    },
+    {
+      "name": "schijnzelfstandigheid-check-nl",
+      "source": "./plugins/schijnzelfstandigheid-check-nl",
+      "description": "Schijnzelfstandigheid-check voor zzp'ers en opdrachtgevers: handhaving sinds 2025, de criteria uit het Deliveroo-arrest, het rechtsvermoeden per 31-12-2026, modelovereenkomsten en webmodule, met een vragenlijst"
     }
   ]
 }

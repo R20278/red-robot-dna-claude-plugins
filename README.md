@@ -9,6 +9,7 @@ business topics in plain language — written and maintained by
 | [dutch-tax-for-expats](plugins/dutch-tax-for-expats) | The 30% ruling (expatregeling) and the 27% change in 2027, Box 3 on assets abroad, the end of partial non-resident status, freelancing basics | English |
 | [aftrekposten-ondernemer-nl](plugins/aftrekposten-ondernemer-nl) | Aftrekposten en jaarafsluiting voor de Nederlandse ondernemer: zelfstandigen- en startersaftrek, urencriterium, KIA/EIA/MIA, zakelijke kosten, auto, afschrijven, lijfrente, eindejaarschecklist | Nederlands |
 | [ondernemen-duitsland-nl](plugins/ondernemen-duitsland-nl) | Zakendoen in of met Duitsland, de Nederlandse kant: btw verleggen, ICP, afstandsverkopen/OSS, vaste inrichting en het belastingverdrag, A1-verklaring — de Duitse kant via een Steuerberater | Nederlands |
+| [schijnzelfstandigheid-check-nl](plugins/schijnzelfstandigheid-check-nl) | Schijnzelfstandigheid-check voor zzp'ers en opdrachtgevers: handhaving sinds 2025, de criteria uit het Deliveroo-arrest, het rechtsvermoeden per 31-12-2026, modelovereenkomsten en webmodule, met een vragenlijst | Nederlands |
 
 ## Install in Claude Code
 

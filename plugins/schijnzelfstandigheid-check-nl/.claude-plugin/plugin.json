@@ -1,0 +1,24 @@
+{
+  "name": "schijnzelfstandigheid-check-nl",
+  "version": "0.1.0",
+  "description": "Praktische check op schijnzelfstandigheid (Wet DBA) voor zzp'ers en opdrachtgevers in Nederland: een vragenlijst langs de gezichtspunten uit het Deliveroo-arrest (gezag, inbedding, ondernemerschap, persoonlijke arbeid, beloning), de handhaving door de Belastingdienst in 2025, 2026 en 2027, wat de webmodule en modelovereenkomsten wel en niet zeggen, het rechtsvermoeden bij een laag uurtarief en de geplande Zelfstandigenwet. Algemene informatie, geen juridisch advies. Gemaakt door Red Robot DNA, een Nederlands boekhoudkantoor.",
+  "author": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "homepage": "https://portaal.redrobotdna.nl",
+  "license": "MIT",
+  "keywords": [
+    "schijnzelfstandigheid",
+    "wet-dba",
+    "zzp",
+    "opdrachtgever",
+    "arbeidsrelatie",
+    "loonheffingen",
+    "deliveroo-arrest",
+    "rechtsvermoeden",
+    "nederland",
+    "dutch"
+  ]
+}
