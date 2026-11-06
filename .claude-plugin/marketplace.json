@@ -13,6 +13,11 @@
       "name": "dutch-tax-for-expats",
       "source": "./plugins/dutch-tax-for-expats",
       "description": "Dutch taxes for expats and freelancers: the 30% ruling and its 27% change in 2027, Box 3 on assets abroad, the end of partial non-resident status, and freelancing (zzp) basics."
+    },
+    {
+      "name": "aftrekposten-ondernemer-nl",
+      "source": "./plugins/aftrekposten-ondernemer-nl",
+      "description": "Aftrekposten en jaarafsluiting voor de Nederlandse ondernemer: zelfstandigen- en startersaftrek, urencriterium, KIA/EIA/MIA, zakelijke kosten, auto, afschrijven, lijfrente, eindejaarschecklist"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "name": "aftrekposten-ondernemer-nl",
+  "version": "0.1.0",
+  "description": "Heldere uitleg over aftrekposten en de jaarafsluiting voor de Nederlandse ondernemer (zzp, eenmanszaak, vof): zelfstandigenaftrek en startersaftrek (2026 en de plannen voor 2027), het urencriterium, de mkb-winstvrijstelling, KIA, EIA en MIA/Vamil, zakelijke en gemengde kosten, auto en bijtelling, afschrijven, lijfrente en jaarruimte, voorbelasting en een eindejaarschecklist. Gemaakt door Red Robot DNA, een Nederlands boekhoudkantoor.",
+  "author": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "homepage": "https://portaal.redrobotdna.nl",
+  "license": "MIT",
+  "keywords": [
+    "nederland",
+    "belasting",
+    "aftrekposten",
+    "zzp",
+    "eenmanszaak",
+    "zelfstandigenaftrek",
+    "investeringsaftrek",
+    "jaarafsluiting",
+    "inkomstenbelasting",
+    "dutch"
+  ]
+}

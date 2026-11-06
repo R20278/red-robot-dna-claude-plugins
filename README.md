@@ -7,6 +7,7 @@ business topics in plain language — written and maintained by
 | Plugin | What it covers | Language |
 | --- | --- | --- |
 | [dutch-tax-for-expats](plugins/dutch-tax-for-expats) | The 30% ruling (expatregeling) and the 27% change in 2027, Box 3 on assets abroad, the end of partial non-resident status, freelancing basics | English |
+| [aftrekposten-ondernemer-nl](plugins/aftrekposten-ondernemer-nl) | Aftrekposten en jaarafsluiting voor de Nederlandse ondernemer: zelfstandigen- en startersaftrek, urencriterium, KIA/EIA/MIA, zakelijke kosten, auto, afschrijven, lijfrente, eindejaarschecklist | Nederlands |
 
 ## Install in Claude Code
 
