@@ -1,0 +1,24 @@
+{
+  "name": "ondernemen-duitsland-nl",
+  "version": "0.1.0",
+  "description": "Heldere uitleg over de Nederlandse fiscale kant voor ondernemers die zaken doen in of met Duitsland: btw bij diensten en goederen aan Duitse klanten (verleggen, intracommunautaire prestaties, opgaaf ICP), afstandsverkopen aan particulieren met de EU-drempel van EUR 10.000 en de OSS-regeling, signalen voor Duitse btw-plicht, vaste inrichting en het belastingverdrag Nederland-Duitsland, personeel over de grens en de A1-verklaring. De Duitse fiscale kant hoort bij een Duitse Steuerberater. Gemaakt door Red Robot DNA, een Nederlands boekhoudkantoor.",
+  "author": {
+    "name": "Red Robot DNA",
+    "email": "info@redrobotdna.nl",
+    "url": "https://portaal.redrobotdna.nl"
+  },
+  "homepage": "https://portaal.redrobotdna.nl/duitsland/",
+  "license": "MIT",
+  "keywords": [
+    "nederland",
+    "duitsland",
+    "btw",
+    "icp",
+    "oss",
+    "vaste-inrichting",
+    "belastingverdrag",
+    "a1-verklaring",
+    "ondernemer",
+    "zzp"
+  ]
+}
